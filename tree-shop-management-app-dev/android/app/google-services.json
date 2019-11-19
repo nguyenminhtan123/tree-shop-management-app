@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "702965548685",
+    "firebase_url": "https://tree-management-ca5b0.firebaseio.com",
+    "project_id": "tree-management-ca5b0",
+    "storage_bucket": "tree-management-ca5b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702965548685:android:16b4c807b8872e2c",
+        "android_client_info": {
+          "package_name": "com.plantselling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702965548685-3ge92lklsje9m435bohetcqb8km8b0r5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFLBPSI9MTLQkaFvCH_1aAuGdAuw9E0qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702965548685-3ge92lklsje9m435bohetcqb8km8b0r5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
